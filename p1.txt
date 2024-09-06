@@ -1,2 +1,4 @@
 i SUHAS NR
   AIT,BENGALURU
+  i
+  git push
