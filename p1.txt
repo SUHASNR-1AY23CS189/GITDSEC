@@ -1,7 +1,4 @@
  SUHAS NR
   AIT,BENGALURU
-  i
   git push
-
-
-  bangalure
+  bangalore
